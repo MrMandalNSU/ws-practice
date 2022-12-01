@@ -1,0 +1,32 @@
+{
+  "topic": "str",
+  "args": [
+    {
+      "execution_id": "0000e859.637713bf.01.01",
+      "symbol": "MUL",
+      "supports_tax_opt": "1",
+      "side": "B",
+      "order_description": "Bot 1 @ 304.00 on LSE",
+      "trade_time": "20221118-08:50:00",
+      "trade_time_r": 1668761400000,
+      "size": 1.0,
+      "price": "304.00",
+      "exchange": "LSE",
+      "net_amount": 3.04,
+      "account": "DU5381496",
+      "accountCode": "DU5381496",
+      "company_name": "MULBERRY GROUP PLC",
+      "contract_description_1": "MUL",
+      "sec_type": "STK",
+      "listing_exchange": "LSE",
+      "conid": 79000399,
+      "conidEx": "79000399",
+      "directed_exchange": "LSE",
+      "position": "1",
+      "clearing_id": "IB",
+      "clearing_name": "IB",
+      "liquidation_trade": "0",
+      "is_event_trading": "0"
+    }
+  ]
+}
